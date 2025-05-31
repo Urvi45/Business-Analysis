@@ -65,7 +65,7 @@ Business Analysis
 ## 🙋‍♀️ Author
 
 **Urvi Patel**  
-Aspiring Data Scientist 
+Aspiring Data Scientist  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/urvi-patel-b81a712b6/)
 
 ---
