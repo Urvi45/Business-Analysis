@@ -5,6 +5,7 @@ This project demonstrates how to leverage SQL-based analysis on retail business 
 ---
 
 ## 📁 Project Structure
+```bash
 Business Analysis 
 ├── datasets/
 │   ├── Brand.csv
@@ -19,6 +20,7 @@ Business Analysis
 ├── Business_Analysis.sql       -- 25+ optimized SQL queries for business insights
 └── DataCleaning.ipynb          -- Python notebook for data cleaning and preprocessing
 
+```
 ---
 
 ## 📊 Dataset Overview
@@ -63,7 +65,8 @@ Business Analysis
 ## 🙋‍♀️ Author
 
 **Urvi Patel**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/) _(insert your real LinkedIn link here)_
+Aspiring Data Scientist 
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/urvi-patel-b81a712b6/)
 
 ---
 
