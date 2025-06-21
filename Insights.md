@@ -46,37 +46,36 @@ This project contains powerful SQL queries that extract key business insights fr
 ## 💰 PROFITABILITY ANALYSIS
 
 22. **Gross Profit by Product** – Determine product-level profitability margins.  
-23. **Category Profitability** – Evaluate strategic value of different product categories.  
 
 ---
 
 ## ⏱️ TIME-BASED ANALYSIS
 
-24. **Sales Growth: Current vs Previous Month** – Track immediate changes in sales performance.  
-25. **Average Monthly Orders per Customer** – Monitor engagement and repeat purchase trends.  
+23. **Sales Growth: Current vs Previous Month** – Track immediate changes in sales performance.  
+24. **Average Monthly Orders per Customer** – Monitor engagement and repeat purchase trends.  
 
 ---
 
 ## 🧑‍💼 STAFF PERFORMANCE
 
-26. **Sales Performance by Staff** – Measure individual contribution to sales.  
-27. **Staff Revenue Contribution** – Quantify how much revenue each staff generates.  
-28. **Staff Covering All States** – Identify staff involved across multiple regions.  
-29. **Order Count by Staff** – Analyze total orders handled by each staff member.  
+25. **Sales Performance by Staff** – Measure individual contribution to sales.  
+26. **Staff Revenue Contribution** – Quantify how much revenue each staff generates.  
+27. **Staff Covering All States** – Identify staff involved across multiple regions.  
+28. **Order Count by Staff** – Analyze total orders handled by each staff member.  
 
 ---
 
 ## 🏪 STORE & STOCK INSIGHTS
 
-30. **Top Performing Store** – Discover stores leading in performance.  
-31. **Revenue by Store** – Evaluate income generated at each store location.  
-32. **Store-Wise Product Sales** – Learn product preferences by store location.  
-33. **Store Revenue Leaderboard** – Rank stores based on total revenue performance.  
-34. **Stock Levels by Store** – Assess inventory availability at each location.  
-35. **Low Stock Alert** – Identify products close to stockout levels.  
-36. **Products Never in Stock** – Track SKUs that remain consistently unavailable.  
-37. **Top-Spending Customer by Store** – Highlight highest-spending customers per store.  
-38. **Top Order Day by Store** – Discover the busiest sales days for each store.  
+29. **Top Performing Store** – Discover stores leading in performance.  
+30. **Revenue by Store** – Evaluate income generated at each store location.  
+31. **Store-Wise Product Sales** – Learn product preferences by store location.  
+32. **Store Revenue Leaderboard** – Rank stores based on total revenue performance.  
+33. **Stock Levels by Store** – Assess inventory availability at each location.  
+34. **Low Stock Alert** – Identify products close to stockout levels.  
+35. **Products Never in Stock** – Track SKUs that remain consistently unavailable.  
+36. **Top-Spending Customer by Store** – Highlight highest-spending customers per store.  
+37. **Top Order Day by Store** – Discover the busiest sales days for each store.  
 
 ---
 
